@@ -124,7 +124,7 @@ matplotlib==3.4.3
 scikit-learn==0.24.2
 ### 6. Results
 Training and validation accuracy/loss curves
-/content/training_metrics.png
+training_metrics (1).png
 
 Test set confusion matrix
 /content/confusion_matrix_counts.png
