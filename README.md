@@ -130,7 +130,7 @@ Test set confusion matrix
 /content/confusion_matrix_counts.png
 
 ROC curve for pneumonia classification
-/content/roc_curve.png
+https://github.com/Harveer-Kaur/pneumonia-inceptionv3/blob/main/roc_curve.png
 
 
 ### 7. License
