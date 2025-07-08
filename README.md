@@ -124,12 +124,13 @@ matplotlib==3.4.3
 scikit-learn==0.24.2
 ### 6. Results
 Training and validation accuracy/loss curves
-
+/content/training_metrics.png
 
 Test set confusion matrix
-
+/content/confusion_matrix_counts.png
 
 ROC curve for pneumonia classification
+/content/roc_curve.png
 
 
 ### 7. License
