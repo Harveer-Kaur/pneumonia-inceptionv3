@@ -127,7 +127,7 @@ Training and validation accuracy/loss curves
 training_metrics (1).png
 
 Test set confusion matrix
-/content/confusion_matrix_counts.png
+https://github.com/Harveer-Kaur/pneumonia-inceptionv3/blob/b01ae0477c333d78b6b20ea190374519a1cc46d5/confusion_matrix_counts.png
 
 ROC curve for pneumonia classification
 https://github.com/Harveer-Kaur/pneumonia-inceptionv3/blob/main/roc_curve.png
