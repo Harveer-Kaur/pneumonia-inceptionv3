@@ -106,5 +106,40 @@ cd pneumonia-inceptionv3
 pip3 install -r requirements.txt
 ### 3. Download pneumoniamnist.npz from MedMNIST PneumoniaMNIST and place it in the project root.
 python3 train-pneumonia-model.py
+### 4. Evaluate model
+python evaluate_model.py
+### 5.Dependencies
+Python 3.8+
+
+TensorFlow 2.6+
+
+NumPy
+
+Matplotlib
+
+scikit-learn
+tensorflow==2.6.0
+numpy==1.21.2
+matplotlib==3.4.3
+scikit-learn==0.24.2
+### 6. Results
+Training and validation accuracy/loss curves
+
+
+Test set confusion matrix
+
+
+ROC curve for pneumonia classification
+
+
+### 7. License
+This project is licensed under the MIT License - see the LICENSE file for details.
+MIT License
+
+Copyright (c) 2023 Harveer Kaur
+
+Permission is hereby granted...
+
+
 
 
